@@ -1,0 +1,1 @@
+alias tests='yarn run test'
